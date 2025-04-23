@@ -51,4 +51,3 @@ Student at NUST University, pursuing a Bachelor's in Data Science
 
 ---
 
-Let me know if you'd like to save this to a downloadable `.txt` file or turn it into a proper `README.md` version for GitHub display.
