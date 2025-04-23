@@ -1,13 +1,13 @@
 
 
 
-#Remote Patient Monitoring System (RPMS)
+# Remote Patient Monitoring System (RPMS)
 
 **Objective:**  
 This assignment implements a basic Remote Patient Monitoring System (RPMS) using Object-Oriented Programming (OOP) concepts in Java.
 
 
-##New Functionalities Implemented:
+## New Functionalities Implemented:
 
 1. **Emergency Alert System**  
 - **EmergencyAlert**: Triggers alerts when a patient's vital signs exceed safe thresholds.  
